@@ -1,0 +1,6 @@
+c:\users\jesse\documents\visual studio 2015\Projects\KeyLINQOperators\KeyLINQOperators\bin\Debug\KeyLINQOperators.exe.config
+c:\users\jesse\documents\visual studio 2015\Projects\KeyLINQOperators\KeyLINQOperators\bin\Debug\KeyLINQOperators.exe
+c:\users\jesse\documents\visual studio 2015\Projects\KeyLINQOperators\KeyLINQOperators\bin\Debug\KeyLINQOperators.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\KeyLINQOperators\KeyLINQOperators\obj\Debug\KeyLINQOperators.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2015\Projects\KeyLINQOperators\KeyLINQOperators\obj\Debug\KeyLINQOperators.exe
+c:\users\jesse\documents\visual studio 2015\Projects\KeyLINQOperators\KeyLINQOperators\obj\Debug\KeyLINQOperators.pdb
