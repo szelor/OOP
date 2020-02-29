@@ -1,6 +1,0 @@
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csprojResolveAssemblyReference.cache
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

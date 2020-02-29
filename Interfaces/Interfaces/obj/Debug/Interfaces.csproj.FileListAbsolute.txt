@@ -1,6 +1,0 @@
-c:\users\jesse\documents\visual studio 2015\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
-c:\users\jesse\documents\visual studio 2015\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
-c:\users\jesse\documents\visual studio 2015\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
-c:\users\jesse\documents\visual studio 2015\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
-c:\users\jesse\documents\visual studio 2015\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
-c:\users\jesse\documents\visual studio 2015\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

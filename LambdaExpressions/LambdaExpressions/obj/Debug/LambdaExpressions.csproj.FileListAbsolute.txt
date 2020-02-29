@@ -1,5 +1,0 @@
-c:\users\jesse\documents\visual studio 2015\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
-c:\users\jesse\documents\visual studio 2015\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
-c:\users\jesse\documents\visual studio 2015\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
-c:\users\jesse\documents\visual studio 2015\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
-c:\users\jesse\documents\visual studio 2015\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

@@ -1,6 +1,0 @@
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csprojResolveAssemblyReference.cache
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
-c:\Users\Szelor\Documents\Uczelnia WSB Chorzów\Programowanie\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb
