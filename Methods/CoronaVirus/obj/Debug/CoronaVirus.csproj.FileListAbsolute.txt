@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Methods\CoronaVirus\bin\Debug\CoronaVirus.exe.config
+C:\Users\Student\source\repos\Methods\CoronaVirus\bin\Debug\CoronaVirus.exe
+C:\Users\Student\source\repos\Methods\CoronaVirus\bin\Debug\CoronaVirus.pdb
+C:\Users\Student\source\repos\Methods\CoronaVirus\obj\Debug\CoronaVirus.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Methods\CoronaVirus\obj\Debug\CoronaVirus.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Methods\CoronaVirus\obj\Debug\CoronaVirus.exe
+C:\Users\Student\source\repos\Methods\CoronaVirus\obj\Debug\CoronaVirus.pdb

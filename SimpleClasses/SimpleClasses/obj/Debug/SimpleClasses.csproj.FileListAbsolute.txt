@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+C:\Users\Student\source\repos\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb

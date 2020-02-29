@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Methods\Months\bin\Debug\Months.exe.config
+C:\Users\Student\source\repos\Methods\Months\bin\Debug\Months.exe
+C:\Users\Student\source\repos\Methods\Months\bin\Debug\Months.pdb
+C:\Users\Student\source\repos\Methods\Months\obj\Debug\Months.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Methods\Months\obj\Debug\Months.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Methods\Months\obj\Debug\Months.exe
+C:\Users\Student\source\repos\Methods\Months\obj\Debug\Months.pdb
