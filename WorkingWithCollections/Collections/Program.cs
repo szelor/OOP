@@ -17,30 +17,31 @@ namespace Collections
             List<Pracownik> pracownicy = new List<Pracownik>();
 
 
-            osoby.Add(new Osoba() { login = "grazyna", haslo = "1234", nazwisko = "Hasiok" });
-            osoby.Add(new Osoba() { login = "janusz", haslo = "qwerty", nazwisko = "Hasiok" });
+            osoby.Add(new Osoba() { Login = "grazyna", Haslo = "1234", Nazwisko = "Hasiok" });
+            osoby.Add(new Osoba() { Login = "janusz", Haslo = "qwerty", Nazwisko = "Hasiok" });
 
-            pracownicy.Add(new Pracownik() { login = "kamnsk", haslo = "password", nazwisko = "Kamiński", departament = "IT" });
-            pracownicy.Add(new Pracownik() { login = "kulczyk", haslo = "dolary$$$", nazwisko = "Kulczyk", departament = "HR" });
+            pracownicy.Add(new Pracownik() { Login = "kamnsk", Haslo = "password", Nazwisko = "Kamiński", Departament = "IT" });
+            pracownicy.Add(new Pracownik() { Login = "kulczyk", Haslo = "dolary$$$", Nazwisko = "Kulczyk", Departament = "HR" });
 
 
             Console.WriteLine("Pracownicy:");
 
             foreach (Pracownik p in pracownicy)
             {
-                Console.WriteLine($"P.{p.nazwisko}, pracuje w {p.departament} ma login {p.login} i hasło {p.haslo} przechowywane jako jawny tekst, a co.");
+                Console.WriteLine($"P.{p.Nazwisko}, pracuje w {p.Departament} ma Login {p.Login} i hasło {p.Haslo} przechowywane jako jawny tekst, a co.");
             }
 
 
             Console.WriteLine("Po prostu osoby:");
             foreach (Osoba o in osoby)
             {
-                Console.WriteLine($"Osoba, o nazwisku {o.nazwisko} ma login {o.login} i hasło {o.haslo} przechowywane jako jawny tekst, a co.");
+                Console.WriteLine($"Osoba, o nazwisku {o.Nazwisko} ma Login {o.Login} i hasło {o.Haslo} przechowywane jako jawny tekst, a co.");
             }
 
             // If we try to set weak password for Pracownik it should error out.
-            pracownicy.Add(new Pracownik() { login = "nowak", haslo = "wsb", nazwisko = "Nowak", departament = "HR" });
+            pracownicy.Add(new Pracownik() { Login = "nowak", Haslo = "wsb", Nazwisko = "Nowak", Departament = "HR" });
 
+            Console.WriteLine("Naciśnij dowolny klawisz, żeby zakończyć program");
             Console.ReadKey();
 
         }

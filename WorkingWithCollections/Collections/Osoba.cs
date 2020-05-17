@@ -8,8 +8,8 @@ namespace Collections
 {
      class Osoba
     {
-        public string login { get; set; }
-        public string haslo { get; set; }
-        public string nazwisko { get; set; }
+        public string Login { get; set; }
+        public string Haslo { get; set; }
+        public string Nazwisko { get; set; }
     }
 }
