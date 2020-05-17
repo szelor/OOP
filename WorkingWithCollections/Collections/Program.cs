@@ -23,6 +23,9 @@ namespace Collections
             pracownicy.Add(new Pracownik() { Login = "kamnsk", Haslo = "password", Nazwisko = "Kamiński", Departament = "IT" });
             pracownicy.Add(new Pracownik() { Login = "kulczyk", Haslo = "dolary$$$", Nazwisko = "Kulczyk", Departament = "HR" });
 
+            // Instantiate Pracownik using method
+            pracownicy.Add(Pracownik.DodajPracownika("wycislot", "supersecretpass", "Wycisło", "RND"));
+
 
             Console.WriteLine("Pracownicy:");
 
