@@ -1,0 +1,6 @@
+C:\Users\Szelor\source\repos\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Szelor\source\repos\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Szelor\source\repos\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Szelor\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Szelor\source\repos\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Szelor\source\repos\Linq\Linq\obj\Debug\Linq.pdb

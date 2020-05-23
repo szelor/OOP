@@ -1,0 +1,10 @@
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\bin\Debug\ScrapeClient.exe
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\bin\Debug\ScrapeClient.pdb
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\obj\Debug\ScrapeClient.csprojAssemblyReference.cache
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\obj\Debug\ScrapeClient.csproj.CopyComplete
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\obj\Debug\ScrapeClient.exe
+C:\Users\Szelor\source\repos\Reference\ScrapeClient\obj\Debug\ScrapeClient.pdb

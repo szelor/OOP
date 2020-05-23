@@ -1,0 +1,6 @@
+C:\Users\Szelor\source\repos\Reference\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\Users\Szelor\source\repos\Reference\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\Users\Szelor\source\repos\Reference\ScrapeLibrary\obj\Debug\ScrapeLibrary.csprojAssemblyReference.cache
+C:\Users\Szelor\source\repos\Reference\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Szelor\source\repos\Reference\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\Users\Szelor\source\repos\Reference\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb
