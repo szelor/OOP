@@ -5,3 +5,10 @@ C:\Users\Szelor\source\repos\WorkingWithCollections\Collections\obj\Debug\Collec
 C:\Users\Szelor\source\repos\WorkingWithCollections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
 C:\Users\Szelor\source\repos\WorkingWithCollections\Collections\obj\Debug\Collections.exe
 C:\Users\Szelor\source\repos\WorkingWithCollections\Collections\obj\Debug\Collections.pdb
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\bin\Debug\Collections.exe.config
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\bin\Debug\Collections.exe
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\bin\Debug\Collections.pdb
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\obj\Debug\Collections.exe
+C:\Users\kriskaminski\Source\Repos\OOP\WorkingWithCollections\Collections\obj\Debug\Collections.pdb

@@ -12,62 +12,41 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            Car myFirstCar = new Car();
-            myFirstCar.VIN = 12345;
-            myFirstCar.Make = "Toyota";
-            myFirstCar.Model = "Auris";
 
-            Car mySecondCar = new Car();
-            mySecondCar.VIN = 21456;
-            mySecondCar.Make = "BWM";
-            mySecondCar.Model = "X5";
+            List<Osoba> osoby = new List<Osoba>();
+            List<Pracownik> pracownicy = new List<Pracownik>();
 
-            Bike myBike = new Bike();
-            myBike.Color = "Blue";
 
-            //Object Initializer
-            Car myLastCar = new Car() { VIN = 4444, Make = "Fiat", Model = "Punto" };
+            osoby.Add(new Osoba() { Login = "grazyna", Haslo = "1234", Nazwisko = "Hasiok" });
+            osoby.Add(new Osoba() { Login = "janusz", Haslo = "qwerty", Nazwisko = "Hasiok" });
 
-            //Collection Initializer
+            pracownicy.Add(new Pracownik() { Login = "kamnsk", Haslo = "password", Nazwisko = "Kamiński", Departament = "IT" });
+            pracownicy.Add(new Pracownik() { Login = "kulczyk", Haslo = "dolary$$$", Nazwisko = "Kulczyk", Departament = "HR" });
 
-            List<Car> myCars = new List<Car>()
+            // Instantiate Pracownik using method
+            pracownicy.Add(Pracownik.DodajPracownika("wycislot", "supersecretpass", "Wycisło", "RND"));
+
+
+            Console.WriteLine("Pracownicy:");
+
+            foreach (Pracownik p in pracownicy)
             {
-                new Car() {VIN = 4444, Make = "Fiat", Model = "Punto" },
-                new Car() {VIN = 333, Make = "Skoda", Model = "Octavia" }
-            };
-
-            foreach (Car item in myCars)
-            {
-                Console.WriteLine(item.Make);
+                Console.WriteLine($"P.{p.Nazwisko}, pracuje w {p.Departament} ma Login {p.Login} i hasło {p.Haslo} przechowywane jako jawny tekst, a co.");
             }
 
-            //ArrayLists
-            ArrayList myArrayList = new ArrayList();
-            myArrayList.Add(myFirstCar);
-            myArrayList.Add(mySecondCar);
-            myArrayList.Add(myBike);
-            myArrayList.Remove(myBike);
 
-            Console.WriteLine(myArrayList.Count);
-
-            foreach (Car item in myArrayList)
+            Console.WriteLine("Po prostu osoby:");
+            foreach (Osoba o in osoby)
             {
-                Console.WriteLine(item.Make);
+                Console.WriteLine($"Osoba, o nazwisku {o.Nazwisko} ma Login {o.Login} i hasło {o.Haslo} przechowywane jako jawny tekst, a co.");
             }
 
-            //List<T>
-            List<Car> myList = new List<Car>();
-            myList.Add(myFirstCar);
-            myList.Add(mySecondCar);
-            myList.Add(myLastCar);
-            //myList.Add(myBike);
+            // If we try to set weak password for Pracownik it should error out.
+            pracownicy.Add(new Pracownik() { Login = "nowak", Haslo = "wsb", Nazwisko = "Nowak", Departament = "HR" });
 
-            foreach (Car item in myList)
-            {
-                Console.WriteLine(item.Model);
-            }
+            Console.WriteLine("Naciśnij dowolny klawisz, żeby zakończyć program");
+            Console.ReadKey();
 
-            Console.ReadLine();
         }
     }
 }
